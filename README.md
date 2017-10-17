@@ -9,6 +9,7 @@ Time Taken 2 days -
 1. Installed Visual Studio 2017
 2. C#
 
+Solution Algorithm - https://github.com/AjithShivdas/DynamicModel/blob/master/DynamicModelling.cs
 
 
 
